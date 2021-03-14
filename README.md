@@ -1,6 +1,6 @@
 👋 Hi, I’m Morgan!
 
-👀 I’m interested in Python, functional programming, data cleansing through to visualisation, and solving real problems through beautiful code.
+👀 I’m into Python, functional programming, data cleansing through to visualisation, and solving problems through beautiful code.
 
 🌱 I usually work in Python, though spent a while with Scala, from which I acquired a functional bent. 
 
