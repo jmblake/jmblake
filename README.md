@@ -2,9 +2,9 @@
 
 👀 I’m into Python, functional programming, all things data, and solving problems with beautiful code.
 
-🌱 I usually work in Python, though spent a while using Scala.
+🌱 I usually work in Python, spent a while using Scala, and tinker with Rust in my spare time.
 
-📫 You can catch me on [LinkedIn](https://www.linkedin.com/in/morgan-blake-657871170/), or find out more on my [website](https://jmblake.github.io) (very much a work in progress).
+📫 If you'd like to connect, you can catch me on [LinkedIn](https://www.linkedin.com/in/morgan-blake-657871170/).
 
 <!---
 jmblake/jmblake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
